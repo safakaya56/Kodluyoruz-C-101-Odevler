@@ -1,2 +1,2 @@
 # Kodluyoruz-C-101-Odevler
-Kodluyoruz C# 101 Egitiminin Odevleri
+Repo'ya Kodluyoruz C# egitimi kapasmındaki odevler yuklenecektir.Odev kodlarını duzen icin repodaki Odevler klasorunde tuttum.
